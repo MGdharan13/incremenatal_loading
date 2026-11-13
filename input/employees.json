@@ -1,0 +1,30 @@
+[
+    {
+        "employee_id": "101",
+        "name": "giri dharan",
+        "department": "AI ML",
+        "salary": 45000,
+        "joining_date": "2025-01-10"
+    },
+    {
+        "employee_id": "102",
+        "name": "arun",
+        "department": "data engineering",
+        "salary": 40000,
+        "joining_date": "2025-02-15"
+    },
+    {
+        "employee_id": "105",
+        "name": "raj",
+        "department": "software",
+        "salary": 32000,
+        "joining_date": "2025-05-10"
+    },
+    {
+        "employee_id": "106",
+        "name": "suresh",
+        "department": "testing",
+        "salary": 29000,
+        "joining_date": "2025-06-12"
+    }
+]
